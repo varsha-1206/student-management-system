@@ -1,0 +1,14 @@
+# Compiled Java files
+*.class
+
+# Local student records and secrets
+students.txt
+.env
+*.properties
+
+# IDE files
+.vscode/
+.idea/
+
+# Downloaded JDBC driver
+lib/
