@@ -94,3 +94,15 @@ java -cp ".;lib\mysql-connector-j-26.10.0\mysql-connector-j-26.10.0.jar" Student
 This project demonstrates object-oriented programming,
 database connectivity, SQL CRUD operations, input validation,
 exception handling, and Java Swing GUI development.
+
+
+## Screenshots
+
+### Student Management GUI
+
+![Student Management System GUI](screenshots/student-management-gui.png)
+![Student Management System GUI](screenshots/student-management-updation-gui.png)
+
+### MySQL Database
+
+![Student records in MySQL](screenshots/student-database.png)
